@@ -81,7 +81,7 @@
                 </div>
                 <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="dropdownMenuButton1">
                     <li><a class="dropdown-item"
-                            href="{{ route('user.show', ['user' => auth()->user()->id]) }}">Profil</a>
+                            href="{{ route('user.show', ['user' => auth()->user()->id]) }}">Profile</a>
                     </li>
                     <li><a class="dropdown-item" href="#">Activity</a></li>
                     <li><a class="dropdown-item" href="#">Setting</a></li>

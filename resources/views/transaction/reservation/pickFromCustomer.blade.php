@@ -74,7 +74,7 @@
                                                             <td><i class="fas fa-phone"></i></td>
                                                             <td>
                                                                 <span>
-                                                                    +6281233808395
+                                                                    +1 802 000 0000
                                                                 </span>
                                                             </td>
                                                         </tr>

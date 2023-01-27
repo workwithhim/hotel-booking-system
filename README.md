@@ -2,13 +2,6 @@
 Laravel Hotel is an open-source web application built with laravel 8.0, enchanced with laravel websockets features to have realtime notification experience.
 
 Its now compatible with laravel 9
-## Examples
-- Reservation
-![alt text](https://github.com/WailanTirajoh/laravel_hotel/blob/main/example-b.png?raw=true)
-
-- Dashboard
-![alt text](https://github.com/WailanTirajoh/laravel_hotel/blob/main/example.png?raw=true)
-- And more ...
 
 ## Instalation 
 
