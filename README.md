@@ -33,6 +33,8 @@ php artisan websockets:serv     => Terminal 2   //run the websocket server for r
 npm run dev
 ```
 
+
+
 ### Production Build
 ```
 // run this on your terminal to generate production build
