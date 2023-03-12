@@ -39,10 +39,6 @@ npm run dev
 npm run build
 ```
 
-### Login:
-- Email: john@gmail.com
-- Password: workwithjohn
-
 ## TODO:
 - Customer's Room:
     - Asks for room to be cleaned
